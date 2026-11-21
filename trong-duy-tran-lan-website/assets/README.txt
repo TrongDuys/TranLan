@@ -1,1 +1,0 @@
-Đặt file nhạc nền MP3 bạn có quyền sử dụng vào thư mục này và đổi tên thành music.mp3. Trang page-2.html sẽ tự thử phát sau khi khách bấm Mở thiệp; nếu trình duyệt chặn tự phát, khách chạm nút Bật nhạc.
